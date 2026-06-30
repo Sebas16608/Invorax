@@ -69,4 +69,4 @@ Invorax permite gestionar el inventario y las ventas de forma ordenada, rápida 
 └── README.md```
 
 ### Utilizando la imagen de referencia para la arquitectura de los datos
-![Schema](https://github.com/Sebas16608/Invorax/blob/main/backend/schema.png)
+![Schema](backend/schema.png)
