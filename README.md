@@ -66,7 +66,8 @@ Invorax permite gestionar el inventario y las ventas de forma ordenada, rápida 
 │   │   ├── tests.py
 │   │   └── views.py
 │   └── schema.png
-└── README.md```
+└── README.md
+```
 
 ### Utilizando la imagen de referencia para la arquitectura de los datos
 ![Schema](backend/schema.png)
